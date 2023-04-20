@@ -38,6 +38,6 @@ namespace ServerApps.BaseClass
             this.reader = reader;
         }
 
-        public bool Connect
+        //public bool Connect
     }
 }

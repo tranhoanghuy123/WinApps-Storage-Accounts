@@ -20,7 +20,7 @@ namespace ServerApps.BaseClass
         public SqlConnection Connection { get => connection; set => connection = value; }
         public SqlCommand Command { get => command; set => command = value; }
         public SqlDataReader Reader { get => reader; set => reader = value; }
-        
+
         public ConnectDB()
         {
             this.connectionString = null;

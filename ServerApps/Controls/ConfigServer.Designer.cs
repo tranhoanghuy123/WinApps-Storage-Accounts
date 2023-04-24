@@ -313,7 +313,7 @@
             this.MinimumSize = new System.Drawing.Size(744, 402);
             this.Name = "ConfigServer";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "ConfigServer";
+            this.Text = "Config Server";
             this.Load += new System.EventHandler(this.ConfigServer_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
